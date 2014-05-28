@@ -1,0 +1,18 @@
+[color]
+	ui = true
+[user]
+	name = Albert Tan Peh Shin
+	email = albert.tan@sage.com
+[credential]
+	helper = osxkeychain
+[alias]
+	co = checkout
+	c = commit -m
+	ca = commit -a -m
+	s = status
+	d = diff
+	a = add
+	aa = add --all
+
+[core]
+	excludesfile = /Users/atan/.gitignore

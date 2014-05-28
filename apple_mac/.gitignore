@@ -1,0 +1,10 @@
+##########################
+# Git global ignore list
+##########################
+
+# Igore vim swp files
+**/.*.swp
+**/.DS_Store
+log/
+tmp/
+
